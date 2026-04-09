@@ -1,0 +1,3 @@
+models/skin_cancer_model.pkl
+*.npy
+__pycache__/
